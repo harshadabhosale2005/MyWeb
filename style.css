@@ -1,10 +1,8 @@
-@media (max-width:768px){
+
     body{
-        font-size:16px;
-        padding:10px;
+        
         background-color:black;
     }
-}
 nav {
     display: flex;
     justify-content: space-between;
@@ -380,6 +378,7 @@ html{
     text-align: center;
     line-height: 50px;
 }
+
 
 
 
