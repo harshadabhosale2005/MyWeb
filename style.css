@@ -1,8 +1,7 @@
 
-    body{
-        
-        background-color:black;
-    }
+   body {
+    background-color: black;}
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -378,6 +377,7 @@ html{
     text-align: center;
     line-height: 50px;
 }
+
 
 
 
