@@ -209,13 +209,13 @@ button {
 
 
 .head h2{
-    font-size: 55px;
+font-size: 55px;
 display: flex;
 align-items: center;
 justify-content: center;
 margin-bottom: px;
 color: white;
-margin-right: 20px;
+margin-right: 10px;
 
 }
 
@@ -247,7 +247,7 @@ bottom: 15px;}
     color:white;
     border-radius: 12px;
     padding: 35px 10px;
-  margin-left: 250px;
+  margin-left: 320px;
     
   }
   
@@ -377,6 +377,7 @@ html{
     text-align: center;
     line-height: 50px;
 }
+
 
 
 
